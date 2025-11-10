@@ -1,0 +1,15 @@
+{
+  "author": "CDT",
+  "createdAt": "2025-11-10",
+  "homepage": "https://www.llmbioinformatics.com",
+  "identifier": "LLM-Bioinformatics",
+  "manifest": "https://www.llmbioinformatics.com/manifest-LLM-Bioinformatics.json",
+  "meta": {
+    "avatar": "🧬",
+    "tags": ["bioinformatics", "LLM"],
+    "title": "LLM Bioinformatics",
+    "description": "A plugin to use LLM for bioinformatics # will auto generate i18n in workflow",
+    "category": "tools"
+  },
+  "schemaVersion": 1
+}

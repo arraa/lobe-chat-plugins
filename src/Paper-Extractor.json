@@ -1,0 +1,15 @@
+{
+  "author": "CDT",
+  "createdAt": "2025-11-10",
+  "homepage": "https://www.paper-extractor.com",
+  "identifier": "Paper-Extractor",
+  "manifest": "https://www.paper-extractor.com/manifest-Paper-Extractor.json",
+  "meta": {
+    "avatar": "🧬",
+    "tags": ["paper", "extractor", "Paper-Extractor"],
+    "title": "Paper Extractor",
+    "description": "A plugin to extract information from papers # will auto generate i18n in workflow",
+    "category": "tools"
+  },
+  "schemaVersion": 1
+}
